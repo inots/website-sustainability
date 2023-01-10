@@ -1,5 +1,4 @@
-# Towards reduced website carbon emissions: 
-# Contributing factors of sustainable web design and development
+# Towards reduced website carbon emissions: Contributing factors of sustainable web design and development
 
 Senior Survey paper by Ino Tsichrintzi:
 https://inots.github.io/website-sustainability/
